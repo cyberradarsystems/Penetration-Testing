@@ -1,0 +1,2 @@
+# Penetration-Testing
+Pentesting or ethical hacking is a strong practice of testing a computer systems to search for security vulnerabilities that a hacker or attacker could exploit. It can be performed both manually and automatically. It’s the procedure of gathering information about the target before testing. Cybersecurity identifies the weak points in your organization’s security posture as well as tests staff security awareness level and measures the compliance of security level. Penetration testing is commonly used to improve a Web Application Firewall (WAF).
